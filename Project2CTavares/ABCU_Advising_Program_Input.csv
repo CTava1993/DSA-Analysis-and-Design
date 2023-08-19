@@ -1,0 +1,9 @@
+CourseID,CourseTitle,Prerequisite,Prerequisite
+201,Discrete Mathematics,none,none
+300,Introduction to Algorithms,200,201
+350,Operating Systems,300,none
+101,Introduction to Programming in C++,100,none
+100,Introduction to Computer Science,none,none
+301,Advanced Programming in C++,101,none
+400,Large Software Developments,301,350
+200,Data Structures,101,none
